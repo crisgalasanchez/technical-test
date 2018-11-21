@@ -1,0 +1,18 @@
+//fonts
+//@import url('https://fonts.googleapis.com/css?family=Roboto:400,500');
+
+// Core
+@import 'core/variables';
+@import 'core/mixins';
+
+// Layout
+@import 'layout/header';
+@import 'layout/footer';
+@import 'layout/grid';
+
+// Components
+@import 'components/buttons';
+@import 'components/typography';
+
+//pages
+@import 'pages/home'
